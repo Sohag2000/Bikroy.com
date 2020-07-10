@@ -1,1 +1,0 @@
-# Bikroy.com
