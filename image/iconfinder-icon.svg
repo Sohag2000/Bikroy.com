@@ -1,0 +1,26 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke-width="10" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#8ac6d6" id="XMLID_56_" fill="#8ac6d6" d="m324.152428,496l-138.8,0c-16.6,0 -30,-13.4 -30,-30l0,-328.2c0,-16.6 13.4,-30 30,-30l138.8,0c16.6,0 30,13.4 30,30l0,328.2c0,16.6 -13.4,30 -30,30z"/>
+  <rect y="159.8" x="186.1" width="139.8" stroke-width="10" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#8ac6d6" id="XMLID_57_" height="113.9" fill="#e5e5e5"/>
+  <line y2="134.5" y1="134.5" x2="283.5" x1="228.5" stroke-width="10" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" id="XMLID_58_" fill="none"/>
+  <path stroke-width="10" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" id="XMLID_60_" fill="#000000" d="m207.6,329.452428l-23.2,0c-3.8,0 -6.8,-3.1 -6.8,-6.8l0,-13.2c0,-3.8 3.1,-6.8 6.8,-6.8l23.2,0c3.8,0 6.8,3.1 6.8,6.8l0,13.2c0.1,3.7 -3,6.8 -6.8,6.8z"/>
+  <path stroke-width="10" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" id="XMLID_61_" fill="#000000" d="m207.6,377l-23.2,0c-3.8,0 -6.8,-3.1 -6.8,-6.8l0,-13.2c0,-3.8 3.1,-6.8 6.8,-6.8l23.2,0c3.8,0 6.8,3.1 6.8,6.8l0,13.2c0.1,3.7 -3,6.8 -6.8,6.8z"/>
+  <path stroke-width="10" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" id="XMLID_62_" fill="#000000" d="m207.6,423.3l-23.2,0c-3.8,0 -6.8,-3.1 -6.8,-6.8l0,-13.2c0,-3.8 3.1,-6.8 6.8,-6.8l23.2,0c3.8,0 6.8,3.1 6.8,6.8l0,13.2c0.1,3.7 -3,6.8 -6.8,6.8z"/>
+  <path stroke-width="10" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" id="XMLID_63_" fill="#000000" d="m207.6,469.6l-23.2,0c-3.8,0 -6.8,-3.1 -6.8,-6.8l0,-13.2c0,-3.8 3.1,-6.8 6.8,-6.8l23.2,0c3.8,0 6.8,3.1 6.8,6.8l0,13.2c0.1,3.7 -3,6.8 -6.8,6.8z"/>
+  <path stroke-width="10" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" id="XMLID_68_" fill="#000000" d="m267.6,330.7l-23.2,0c-3.8,0 -6.8,-3.1 -6.8,-6.8l0,-13.2c0,-3.8 3.1,-6.8 6.8,-6.8l23.2,0c3.8,0 6.8,3.1 6.8,6.8l0,13.2c0,3.7 -3,6.8 -6.8,6.8z"/>
+  <path stroke-width="10" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" id="XMLID_67_" fill="#000000" d="m267.6,377l-23.2,0c-3.8,0 -6.8,-3.1 -6.8,-6.8l0,-13.2c0,-3.8 3.1,-6.8 6.8,-6.8l23.2,0c3.8,0 6.8,3.1 6.8,6.8l0,13.2c0,3.7 -3,6.8 -6.8,6.8z"/>
+  <path stroke-width="10" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" id="XMLID_66_" fill="#000000" d="m267.6,423.3l-23.2,0c-3.8,0 -6.8,-3.1 -6.8,-6.8l0,-13.2c0,-3.8 3.1,-6.8 6.8,-6.8l23.2,0c3.8,0 6.8,3.1 6.8,6.8l0,13.2c0,3.7 -3,6.8 -6.8,6.8z"/>
+  <path stroke-width="10" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" id="XMLID_65_" fill="#000000" d="m267.6,469.6l-23.2,0c-3.8,0 -6.8,-3.1 -6.8,-6.8l0,-13.2c0,-3.8 3.1,-6.8 6.8,-6.8l23.2,0c3.8,0 6.8,3.1 6.8,6.8l0,13.2c0,3.7 -3,6.8 -6.8,6.8z"/>
+  <path stroke-width="10" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" id="XMLID_74_" fill="#000000" d="m327.6,330.7l-23.2,0c-3.8,0 -6.8,-3.1 -6.8,-6.8l0,-13.2c0,-3.8 3.1,-6.8 6.8,-6.8l23.2,0c3.8,0 6.8,3.1 6.8,6.8l0,13.2c0,3.7 -3,6.8 -6.8,6.8z"/>
+  <path stroke-width="10" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" id="XMLID_72_" fill="#000000" d="m327.6,377l-23.2,0c-3.8,0 -6.8,-3.1 -6.8,-6.8l0,-13.2c0,-3.8 3.1,-6.8 6.8,-6.8l23.2,0c3.8,0 6.8,3.1 6.8,6.8l0,13.2c0,3.7 -3,6.8 -6.8,6.8z"/>
+  <path stroke-width="10" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" id="XMLID_71_" fill="#000000" d="m327.6,423.3l-23.2,0c-3.8,0 -6.8,-3.1 -6.8,-6.8l0,-13.2c0,-3.8 3.1,-6.8 6.8,-6.8l23.2,0c3.8,0 6.8,3.1 6.8,6.8l0,13.2c0,3.7 -3,6.8 -6.8,6.8z"/>
+  <path stroke-width="10" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#000000" id="XMLID_70_" fill="#000000" d="m327.6,469.6l-23.2,0c-3.8,0 -6.8,-3.1 -6.8,-6.8l0,-13.2c0,-3.8 3.1,-6.8 6.8,-6.8l23.2,0c3.8,0 6.8,3.1 6.8,6.8l0,13.2c0,3.7 -3,6.8 -6.8,6.8z"/>
+  <path stroke-width="10" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#8ac6d6" id="XMLID_75_" fill="#8ac6d6" d="m211.2,107.8l-33.6,0l0,-75c0,-9.3 7.5,-16.8 16.8,-16.8l0,0c9.3,0 16.8,7.5 16.8,16.8l0,75z"/>
+ </g>
+</svg>
